@@ -1,0 +1,8 @@
+
+// code ida ne para hallo taks ne lao 
+//hodi nune server ne bele lao automatikamente
+
+
+{
+    "task.allowAutomaticTasks": "on"
+}
